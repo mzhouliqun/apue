@@ -1,0 +1,14 @@
+1.awk
+生成c程序的awk代码
+
+1.c
+1.awk程序读取pathconf.sym和sysconfig.sym后生成的c程序
+
+2.c
+为路径名动态分配存储区的函数path_alloc()
+
+3.c
+返回文件描述符个数的函数open_max()
+
+pathconf.sym  sysconf.sym
+1.awk的数据来源
