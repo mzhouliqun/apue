@@ -1,0 +1,2 @@
+2.3.c
+优化open_max函数，当open_max返回LONG_MAX时进行更优的处理
